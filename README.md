@@ -1,4 +1,4 @@
-# Breast Cancer Classification using numpy, pandas, scikit-learn, matplotlib, seaborn.
+# Breast Cancer Classification using numpy, pandas, matplotlib.
 
 ## Overview
 This repository contains an ML project focused on the classification of breast cancer tumors as either benign or malignant. The project utilizes a dataset to build and evaluate various machine learning models for breast cancer classification.
@@ -33,9 +33,7 @@ Make sure you have the following Python libraries installed:
 
 - `numpy`
 - `pandas`
-- `scikit-learn`
 - `matplotlib`
-- `seaborn`
 
 You can install these libraries using `pip` or `conda` if they are not already installed.
 
