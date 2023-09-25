@@ -1,4 +1,4 @@
-# Breast Cancer Classification using `numpy` `pandas` `scikit-learn` `matplotlib` `seaborn`
+# Breast Cancer Classification using numpy, pandas, scikit-learn, matplotlib, seaborn.
 
 ## Overview
 This repository contains an ML project focused on the classification of breast cancer tumors as either benign or malignant. The project utilizes a dataset to build and evaluate various machine learning models for breast cancer classification.
